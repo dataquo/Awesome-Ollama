@@ -136,6 +136,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Reply Better AI](https://github.com/dantnan/reply-better-ai)          | Browser extension to improve writing and draft replies on any page, on-device or via a local server | Browser extension | MIT        |
 | [Topic Watch](https://github.com/0xzerolight/topic_watch)              | Self-hosted news monitor that uses an LLM to only notify on genuinely new information               | Docker            | GPL-3.0    |
 | [VoxFlow](https://github.com/KnigguKniggu-droid/voxflow)               | Offline voice dictation: hold a hotkey, speak, a local model writes it at your cursor               | Download          | MIT        |
+| [whisper-llm-notes](https://github.com/dataquo/whisper-llm-notes)      | Batch audio meeting notes pipeline with WhisperX, Apple Silicon MLX / CUDA  (Ollama or LM Studio)   | Download          | AGPL-3.0   |
 
 ## Terminal
 
